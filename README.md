@@ -4,6 +4,9 @@
 
 -> **4/15까지 완료하기**
 
+<img width="386" alt="image" src="https://github.com/WEBchin-people/web1-divide/assets/129304827/96456ca5-16d7-48db-ac93-be1c0afbc3cd">
+
+
 ## 조건
 1. ```Display: flex;``` 속성을 사용할 것
 2. 중앙에 큰 사각형은 가로 200px, 세로 200px로 만들고 padding은 모든 방향 20px로 고정할 것
